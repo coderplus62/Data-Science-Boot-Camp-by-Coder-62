@@ -59,11 +59,11 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
 ## Step 4: Instalasi Environment
 - Change directory `cd` ke folder kerja ini
     ```
-    cd supervised_learning/
+    cd Data Science Boot-Camp by Coder+62/
     ```
 - Jalankan command ini untuk menginstall environment `jcopml`
     ```
-    conda env create -f env_jcopml.yml
+    conda env create -f env_coder+62.yml
     ```
 
 ## Step 5: Memastikan environment terinstall dengan baik
