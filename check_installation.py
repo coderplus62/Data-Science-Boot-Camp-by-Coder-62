@@ -5,9 +5,9 @@ req = {
     "scikit-learn", "matplotlib", "seaborn", "ipywidgets", "xgboost", "scikit-optimize", 
     "jcopml", "luwiji"
 }
-env_name = "jcopml"
-working_folder = "supervised_learning"
-env_file = "env_jcopml.yml"
+env_name = "coder+62"
+working_folder = "Data Science Boot-Camp by Coder+62"
+env_file = "env_coder+62.yml"
 
 
 def existing_env():

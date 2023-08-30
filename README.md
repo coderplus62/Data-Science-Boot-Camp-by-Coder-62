@@ -1,4 +1,4 @@
-#  Supervised Learning by J.COp
+#  Data Science Boot-Camp by Coder+62
 Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mempelajari teknik-teknik supervised learning menggunakan scikit-learn dan jcopml.
 
 # Starter Guide
@@ -6,24 +6,24 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
 - Klik disini untuk [Download ZIP](https://codeload.github.com/WiraDKP/supervised_learning/zip/master), atau
 - Bagi yang familiar dengan git, boleh menggunakan clone
     ```
-    git clone https://github.com/WiraDKP/supervised_learning.git
+    https://github.com/coderplus62/Data-Science-Boot-Camp-by-Coder-62.git
     ```
 
 ## Step 2: Instalasi Miniconda
 ### **Windows user**
-- Download miniconda untuk Python 3.7
+- Download miniconda untuk Python 3.9
     - Klik link ini untuk download: [Miniconda Windows 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-py39_23.3.1-0-Windows-x86_64.exe)
     - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya. Walau demikian, saya akan jelaskan alasan kenapa kamu sebaiknya menggunakan miniconda nanti di course ini.
 
 - Install miniconda
     - Ketika ada pilihan `install for`, pilih `Just Me (recommended)`
-    - Untuk `Advanced Options`, silahkan centang `Register Anaconda as my default Python 3.7`
+    - Untuk `Advanced Options`, silahkan centang `Register Anaconda as my default Python 3.9`
     - Tunggu hingga instalasi selesai
 
 - Jalankan `Anaconda Prompt`
 
 ### **Mac user**
-- Download miniconda untuk Python 3.7
+- Download miniconda untuk Python 3.9
     - Klik link ini untuk download: [Miniconda Mac OS X 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-py39_23.3.1-0-MacOSX-x86_64.pkg)
     - 
     - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya. Walau demikian, saya akan jelaskan alasan kenapa kamu sebaiknya menggunakan miniconda nanti di course ini.
@@ -35,7 +35,7 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
 - Jalankan terminal
 
 ### **Linux user**
-- Download miniconda untuk Python 3.7
+- Download miniconda untuk Python 3.9
     - Klik link ini untuk download: [Miniconda Linux 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-py39_23.3.1-0-Linux-x86_64.sh)
     - Note: skip step ini apabila kamu sudah menggunakan Anaconda sebelumnya. Walau demikian, saya akan jelaskan alasan kenapa kamu sebaiknya menggunakan miniconda nanti di course ini.
     
