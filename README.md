@@ -1,5 +1,5 @@
 #  Data Science Boot-Camp by Coder+62
-Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mempelajari teknik-teknik supervised learning menggunakan scikit-learn dan jcopml.
+Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mempelajari teknik-teknik supervised learning menggunakan scikit-learn dan coder+62.
 
 # Starter Guide
 ## Step 1: Download materi
@@ -61,7 +61,7 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
     ```
     cd Data Science Boot-Camp by Coder+62/
     ```
-- Jalankan command ini untuk menginstall environment `jcopml`
+- Jalankan command ini untuk menginstall environment `coder+62`
     ```
     conda env create -f env_coder+62.yml
     ```
@@ -75,8 +75,8 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
     ```
     ✓ jupyter telah terinstall dengan baik
     ✓ nb_conda_kernels telah terinstall dengan baik
-    ✓ Environment jcopml terdeteksi
-    ✓ Package telah terinstall dengan baik di dalam environment jcopml
+    ✓ Environment coder+62 terdeteksi
+    ✓ Package telah terinstall dengan baik di dalam environment coder+62
     ✓ Instalasi berjalan dengan baik. Selamat belajar!
     ```
 
