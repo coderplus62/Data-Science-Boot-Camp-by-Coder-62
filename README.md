@@ -58,7 +58,7 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
 ## 4. Instalasi Environment
 - Change directory `cd` ke folder kerja ini
     ```
-    cd Data Science Boot-Camp by Coder+62/
+    cd Data-Science-Boot-Camp-by-Coder-62/
     ```
 - Jalankan command ini untuk menginstall environment `coder+62`
     ```
