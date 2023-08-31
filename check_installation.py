@@ -23,8 +23,8 @@ def existing_package(env):
 
 
 def main():
-    if "jupyter" in existing_package("base"):
-        print("✓ jupyter telah terinstall dengan baik\n")
+    if "jupyterlab" in existing_package("base"):
+        print("✓ jupyterlab telah terinstall dengan baik\n")
         if "nb_conda_kernels" in existing_package("base"):
             print("✓ nb_conda_kernels telah terinstall dengan baik\n")
             if env_name in existing_env():
@@ -52,7 +52,7 @@ def main():
             print(">> conda install nb_conda_kernels")
     else:
         print("Mohon jalankan command berikut")
-        print(">> conda install jupyter nb_conda_kernels")
+        print(">> conda install jupyterlab nb_conda_kernels")
         
 if __name__ == "__main__":
     main()
