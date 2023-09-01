@@ -52,13 +52,13 @@ Belajar dasar-dasar machine learning dari nol. Untuk fase pertama, kita akan mem
 ## 3. Instalasi jupyterlab 
 - Kita akan install 2 hal di base environment
     ```
-    conda install -n base -c conda-forge jupyterlab nb_conda_kernels
+    conda install -n base -c conda-forge jupyterlab
     ```
 
 ## 4. Instalasi Environment
 - Change directory `cd` ke folder kerja ini
     ```
-    cd Data-Science-Boot-Camp-by-Coder-62/
+    cd Data Science Boot-Camp by Coder+62/
     ```
 - Jalankan command ini untuk menginstall environment `coder+62`
     ```
